@@ -197,3 +197,8 @@ button{
 footer{
     text-align: center;
 }
+
+li.menu2 a{
+    background: black;
+    color: white;
+}
